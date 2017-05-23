@@ -3,7 +3,7 @@ td, th {
     text-align: center !important;
 }
 
-.input-group {
+.ant-input, .ant-btn{
     margin: 20px 0px;
 }
 
